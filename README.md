@@ -14,7 +14,10 @@
 ### Setup Instructions
   There are a couple ways you can choose to setup this file you may
   * Clone the repository form GitHub to your desktop
-  * Open the created GitHub (will add link)
+  * Open the created GitHub (will add link) pages link to access html page
+
 ### Known Bugs
+  * There are currently no know bugs
 
 ### License
+  GNU GPL3.0 (will add link) Copyright (c) 08/12/2022 Athea DeLing
