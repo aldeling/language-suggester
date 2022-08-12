@@ -5,10 +5,11 @@ function hideSuggesterResults() {
 }
 
 window.onload = function() {
+  hideSuggesterResults();
   const form = document.querySelector("form");
   form.onsubmit = function(event){
       event.preventDefault();
-     //hideResults();
+     hideSuggesterResults();
       const pet = document.querySelector("input#pet").value;
 
     if (pet === "cat") {
@@ -19,5 +20,4 @@ window.onload = function() {
         document.getElementById("swift").removeAttribute("class");
     }
     };
-  
   };
