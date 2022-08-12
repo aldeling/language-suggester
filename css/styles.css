@@ -13,8 +13,13 @@ h2 {
   color:#BD6B73;
 }
 
-.button {
-  background-color: #4E5340;
+h3 {
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+}
+p {
+  text-align: center;
 }
 
 .hidden {
