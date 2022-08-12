@@ -14,7 +14,7 @@
 ### Setup Instructions
   There are a couple ways you can choose to setup this file you may
   * Clone the repository form GitHub to your desktop
-  * Open the created GitHub (will add link) pages link to access html page
+  * Open the created [GitHub](https://aldeling.github.io/language-suggester/) pages link to access html page
 
 ### Known Bugs
   * There are currently no know bugs
