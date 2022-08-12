@@ -13,7 +13,7 @@ window.addEventListener("load", function() {
   document.getElementById("questions").addEventListener("submit", handleLanguage);
 
 
-  if (pet === cat){
+  if (pet === "cat"){
     document.getElementById("ruby").removeAttribute("class");
   }
 });
