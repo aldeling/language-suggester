@@ -20,4 +20,4 @@
   * There are currently no know bugs
 
 ### License
-  GNU GPL3.0 (will add link) Copyright (c) 08/12/2022 Athea DeLing
+  [GNU GPL3.0] (https://choosealicense.com/licenses/gpl-3.0/) Copyright (c) 08/12/2022 Athea DeLing
