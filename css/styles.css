@@ -1,16 +1,16 @@
 body {
-  background-color: #F3D8C7;
+  background-color: #E3DFFF;
 }
 
 h1 {
   text-align: center;
-  color: #412234;
+  color: #593F62;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 70px;
 }
 
 h2 {
-  color:#BD6B73;
+  color:#7b6d8d;
   font-size: 20px;
 }
 
@@ -32,8 +32,8 @@ p{
 }
 
 .input{
-  background-color: #412234;
-  color: #F3D8C7;
+  background-color: #F8F0E3;
+  color: #593F62;
 }
 
 .hidden {
