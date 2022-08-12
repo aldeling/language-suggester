@@ -1,10 +1,22 @@
-h1{
+body {
+  background-color: #F3D8C7;
+}
+
+h1 {
   text-align: center;
-  color: blueviolet;
+  color: #412234;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 50px;
 }
 
-.hidden{
+h2 {
+  color:#BD6B73;
+}
+
+.button {
+  background-color: #4E5340;
+}
+
+.hidden {
   display: none;
 }
