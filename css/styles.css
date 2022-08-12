@@ -11,6 +11,7 @@ h1 {
 
 h2 {
   color:#BD6B73;
+  font-size: 20px;
 }
 
 h3 {
@@ -18,8 +19,10 @@ h3 {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 30px;
 }
-p {
-  text-align: center;
+
+.button{
+  background-color: rgb(255, 171, 210);
+  border-radius: 10px;
 }
 
 .hidden {
