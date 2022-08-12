@@ -39,3 +39,17 @@ p{
 .hidden {
   display: none;
 }
+
+.centered-image{
+  margin: auto;
+  width: 200px;
+  height: auto;
+  display: block;
+}
+
+.frame{
+  margin: auto;
+  border: 8px solid #593F62;
+  padding: 2px;
+  background-color: #F8F0E3;
+}
