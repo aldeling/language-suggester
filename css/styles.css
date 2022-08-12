@@ -53,3 +53,12 @@ p{
   padding: 2px;
   background-color: #F8F0E3;
 }
+
+a:link{
+  color: #593F62;
+}
+
+a:visited{
+  color: #7b6d8d;
+  text-decoration: none;
+}
