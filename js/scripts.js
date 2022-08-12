@@ -19,4 +19,5 @@ window.onload = function() {
         document.getElementById("swift").removeAttribute("class");
     }
     };
+  
   };
