@@ -6,7 +6,7 @@ h1 {
   text-align: center;
   color: #412234;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-size: 50px;
+  font-size: 70px;
 }
 
 h2 {
@@ -20,9 +20,20 @@ h3 {
   font-size: 30px;
 }
 
+p{
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 .button{
-  background-color: rgb(255, 171, 210);
+  background-color: #412234;
   border-radius: 10px;
+  color: white;
+}
+
+.input{
+  background-color: #412234;
+  color: #F3D8C7;
 }
 
 .hidden {
