@@ -8,16 +8,16 @@ window.onload = function() {
   hideSuggesterResults();
   const form = document.querySelector("form");
   form.onsubmit = function(event){
-      event.preventDefault();
-     hideSuggesterResults();
-      const pet = document.querySelector("input#pet").value;
+    event.preventDefault();
+    hideSuggesterResults();
+    const petSelection = document.querySelector("input[name='pet']:checked").value;
 
-    if (pet === "cat") {
+    if (petSelection === "cat") {
       document.getElementById("ruby").removeAttribute("class");
-    } else if (pet === "dog") {
-        document.getElementById("python").removeAttribute("class");
-    } else if (pet === "hamster") {
-        document.getElementById("swift").removeAttribute("class");
+    } else if (petSelection === "dog") {
+      document.getElementById("python").removeAttribute("class");
+    } else if (petSelection === "unicorn") {
+      document.getElementById("swift").removeAttribute("class");
     }
-    };
   };
+};
